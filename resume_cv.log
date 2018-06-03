@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (MiKTeX 2.9.6300 64-bit) (preloaded format=xelatex 2017.11.7)  17 MAY 2018 12:28
+This is XeTeX, Version 3.14159265-2.6-0.99998 (MiKTeX 2.9.6300 64-bit) (preloaded format=xelatex 2017.11.7)  3 JUN 2018 14:42
 entering extended mode
 **"d:/Salty Fish/保研！/Resume/resume_cv.tex"
 ("d:/Salty Fish/保研！/Resume/resume_cv.tex"
@@ -1520,7 +1520,7 @@ LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
 (Font)                  OMS/cmsy/m/n --> TU/latinmodern-math.otf(1)/m/n on inpu
 t line 74.
 LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
-(Font)              `symbols' in the math version `bold' on input line 74.
+(Font)              `symbols' in the math version `bond' on input line 74.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
 (Font)                  OMS/cmsy/b/n --> TU/latinmodern-math.otf(1)/bx/n on inp
 ut line 74.
@@ -1617,7 +1617,8 @@ Overfull \hbox (7.59247pt too wide) in alignment at lines 11--35
 
 )
 
-LaTeX Font Warning: Font shape `TU/Roboto(0)/m/s    using `TU/Roboto(0)/m/n' instead on input line 93.
+LaTeX Font Warning: Font shape `TU/Roboto(0)/m/sc  undefined
+(Font)              using `TU/Roboto(0)/m/n' instead on input line 93.
 
 
 LaTeX Font Warning: Font shape `TU/SimSun(0)/m/sc' undefined
@@ -1637,8 +1638,8 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 42785 strings out of 427832
- 820179 string characters out of 3155835
+ 42791 strings out of 427832
+ 820257 string characters out of 3155835
  1009098 words of memory out of 3000000
  46258 multiletter control sequences out of 15000+200000
  6667 words of font info for 82 fonts, out of 3000000 for 9000
@@ -1646,4 +1647,3 @@ Here is how much of TeX's memory you used:
  72i,12n,89p,10412b,766s stack positions out of 5000i,500n,10000p,200000b,50000s
 
 Output written on resume_cv.pdf (1 page).
-n on resume_cv.pdf (1 page).

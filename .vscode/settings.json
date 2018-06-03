@@ -1,16 +1,4 @@
 {    
     "editor.fontFamily": "Fantasque Sans Mono, '思源黑体 CN'",
     "workbench.colorTheme": "Solarized Light",
-    "editor.wordWrap": "on",
-    "latex-workshop.latex.recipes": [
-      {
-        "name": "pdflatex -> bibtex -> pdflatex*2",
-        "tools": [
-          "pdflatex",
-          "bibtex",
-          "pdflatex",
-          "pdflatex"
-        ]
-      }
-    ],
 }
